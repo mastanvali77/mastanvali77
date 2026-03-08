@@ -1,107 +1,94 @@
--Hello I am Mastan Vali Shaik. A DevOps Engineer bridges development and operations, focusing on automation, CI/CD pipelines, and Infrastructure as Code. Skilled in Docker, Kubernetes, and cloud platforms (AWS, Azure, GCP), they ensure faster releases, scalable deployments, system reliability, and seamless collaboration across teams.  
-  
+# 🚀 Mastan Vali Shaik | DevOps Engineer 
 
-<br/>  
+<div align="center">
+  <img src="https://via.placeholder.com/1000x300.png?text=Building+Scalable+Infrastructures+&amp;+Seamless+Pipelines" alt="Mastan Vali Shaik Banner" width="100%">
+  <br />
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+  ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
+  ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+  ![AWS](https://img.shields.io/badge/Cloud-AWS%20|%20Azure%20|%20GCP-orange)
 </div>
 
-</td><td valign="top" width="33%">
+---
+
+## 👨‍💻 Professional Profile
+I am a **DevOps Engineer** bridging the gap between development and operations. My focus is on **automation**, **CI/CD pipelines**, and **Infrastructure as Code (IaC)**. I specialize in ensuring faster releases, scalable deployments, and system reliability through collaborative engineering.
+
+---
+
+## 🛠 Dashboard: My Skill Set
 
 
 
-</td><td valign="top" width="33%">
+<table width="100%">
+  <tr>
+    <th width="33%">🎨 Frontend & UI</th>
+    <th width="33%">⚙️ Backend & Logic</th>
+    <th width="33%">🏗 DevOps & Infra</th>
+  </tr>
+  <tr>
+    <td valign="top" align="center">
+      <br />
+      <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JS" height="40" />
+      <br /><br />
+      <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />
+    </td>
+    <td valign="top" align="center">
+      <br />
+      <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" />
+      <br /><br />
+      <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" />
+      <br /><br />
+      <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />
+    </td>
+    <td valign="top" align="center">
+      <br />
+      <img src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" />
+      <br /><br />
+      <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="K8s" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="40" />
+      <br /><br />
+      <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="40" />
+    </td>
+  </tr>
+</table>
 
+---
 
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
+## 📈 Engineering Analytics
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastanvali77&hide_border=true&layout=compact&theme=dark" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=mastanvali77&color=blueviolet&style=flat-square" align="center" />
+</div>
 
-<br/>  
+---
 
-
-## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastanvali77&hide_border=true&layout=compact" align="right" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
+## 🌐 Connect & Collaborate
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=mastanvali77&&style=flat-square" align="center" />
-</div>  
-  
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mastanvali77" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-<br/>  
+---
 
+## ✍️ Recent Blog Posts
+*Check out my latest insights on DevOps and Automation below:*
 <div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+  <br />
+  <img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" width="400" />
+  <br />
+  <sub>Built with ❤️ by A's buddy for Mastan Vali Shaik</sub>
+</div>
